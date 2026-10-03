@@ -1,0 +1,2 @@
+1|Laptop|Electronics|55000.000000
+2|Pen|Stationery|10.000000
